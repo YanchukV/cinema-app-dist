@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.292f671a.chunk.css",
-    "main.js": "./static/js/main.70c21ad9.chunk.js",
-    "main.js.map": "./static/js/main.70c21ad9.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.8c71f5e6.js",
-    "runtime-main.js.map": "./static/js/runtime-main.8c71f5e6.js.map",
-    "static/css/2.a72c35d3.chunk.css": "./static/css/2.a72c35d3.chunk.css",
-    "static/js/2.da55be17.chunk.js": "./static/js/2.da55be17.chunk.js",
-    "static/js/2.da55be17.chunk.js.map": "./static/js/2.da55be17.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.ee8d92c65d55b4218ff0f4aab8c8b13e.js": "./precache-manifest.ee8d92c65d55b4218ff0f4aab8c8b13e.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.a72c35d3.chunk.css.map": "./static/css/2.a72c35d3.chunk.css.map",
-    "static/css/main.292f671a.chunk.css.map": "./static/css/main.292f671a.chunk.css.map",
-    "static/js/2.da55be17.chunk.js.LICENSE.txt": "./static/js/2.da55be17.chunk.js.LICENSE.txt"
+    "main.css": "/cinema-app-dist/static/css/main.292f671a.chunk.css",
+    "main.js": "/cinema-app-dist/static/js/main.d5e968ff.chunk.js",
+    "main.js.map": "/cinema-app-dist/static/js/main.d5e968ff.chunk.js.map",
+    "runtime-main.js": "/cinema-app-dist/static/js/runtime-main.94ff7abb.js",
+    "runtime-main.js.map": "/cinema-app-dist/static/js/runtime-main.94ff7abb.js.map",
+    "static/css/2.a72c35d3.chunk.css": "/cinema-app-dist/static/css/2.a72c35d3.chunk.css",
+    "static/js/2.0dd0f2b2.chunk.js": "/cinema-app-dist/static/js/2.0dd0f2b2.chunk.js",
+    "static/js/2.0dd0f2b2.chunk.js.map": "/cinema-app-dist/static/js/2.0dd0f2b2.chunk.js.map",
+    "index.html": "/cinema-app-dist/index.html",
+    "precache-manifest.beffa261fa91b55e0d0207cf0aebd5ac.js": "/cinema-app-dist/precache-manifest.beffa261fa91b55e0d0207cf0aebd5ac.js",
+    "service-worker.js": "/cinema-app-dist/service-worker.js",
+    "static/css/2.a72c35d3.chunk.css.map": "/cinema-app-dist/static/css/2.a72c35d3.chunk.css.map",
+    "static/css/main.292f671a.chunk.css.map": "/cinema-app-dist/static/css/main.292f671a.chunk.css.map",
+    "static/js/2.0dd0f2b2.chunk.js.LICENSE.txt": "/cinema-app-dist/static/js/2.0dd0f2b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c71f5e6.js",
+    "static/js/runtime-main.94ff7abb.js",
     "static/css/2.a72c35d3.chunk.css",
-    "static/js/2.da55be17.chunk.js",
+    "static/js/2.0dd0f2b2.chunk.js",
     "static/css/main.292f671a.chunk.css",
-    "static/js/main.70c21ad9.chunk.js"
+    "static/js/main.d5e968ff.chunk.js"
   ]
 }
